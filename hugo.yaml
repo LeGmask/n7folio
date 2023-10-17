@@ -1,4 +1,41 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://n7folio.evann.tech/'
 languageCode: 'en-us'
 title: 'Evann DREUMONT'
-theme: 'hugo-theme-stack'
+
+theme: 'stackfolio'
+
+params:
+  favicon: /favicon.ico
+
+  Sidebar:
+    avatar:
+      enable: true
+      src: "https://www.gravatar.com/avatar/9f650ceaa6dbd1acd04b1556c17c6630?s=150"
+      local: false
+    Subtitle: "Mostly computer science student at INP-ENSEEIHT (Toulouse) and sometimes developer"
+    emoji: 🐧
+
+    footer:
+    since: '2023'
+  
+menu:
+  main: []
+
+  social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/LeGmask
+      params:
+        icon: brand-github
+    - identifier: linkedin
+      name: linkedin
+      url: https://www.linkedin.com/in/evann-dreumont/
+      params:
+        icon: brand-linkedin
+    - identifier: mail
+      name: mail
+      url: https://evann.tech/to/mail
+      params:
+        icon: send
+    
+
