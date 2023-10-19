@@ -5,6 +5,10 @@ title: 'Evann DREUMONT'
 theme: 'stackfolio'
 
 params:
+  contentListTitle: Some of my latest projects
+  mainCategories:
+    - projects
+
   favicon: /favicon.ico
 
   Sidebar:
@@ -28,14 +32,19 @@ menu:
       params:
         icon: brand-github
     - identifier: linkedin
-      name: linkedin
+      name: LinkedIn
       url: https://www.linkedin.com/in/evann-dreumont/
       params:
         icon: brand-linkedin
     - identifier: mail
-      name: mail
+      name: Mail
       url: https://evann.tech/to/mail
       params:
         icon: send
+    - identifier: resume
+      name: Resume
+      url: /resume.pdf
+      params:
+        icon: file-info
     
 

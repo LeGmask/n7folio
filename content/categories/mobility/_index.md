@@ -1,6 +1,7 @@
 ---
 title: "International Mobility"
-image: 
+#image: 
+slug: "mobility"
 style:
     background: "#2a9d8f"
     color: "#fff"

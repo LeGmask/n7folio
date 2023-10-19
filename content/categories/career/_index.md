@@ -1,6 +1,7 @@
 ---
 title: "Career Development"
-image: 
+image:
+slug: "career"
 style:
     background: "#2a9d8f"
     color: "#fff"
@@ -12,3 +13,4 @@ menu:
     params:
       icon: briefcase
 ---
+

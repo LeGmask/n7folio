@@ -1,6 +1,7 @@
 ---
 title: "Sustainability & Civic Engagement"
-image: 
+#image:
+slug: "engagements"
 style:
     background: "#2a9d8f"
     color: "#fff"
