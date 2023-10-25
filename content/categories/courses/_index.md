@@ -3,8 +3,8 @@ title: "Engineering courses"
 #image: 
 slug: "courses"
 style:
-    background: "#2a9d8f"
-    color: "#fff"
+    background: "#ebcb8b"
+    color: "#eceff4"
 
 menu:
   main:

@@ -3,8 +3,8 @@ title: "Sustainability & Civic Engagement"
 #image:
 slug: "engagements"
 style:
-    background: "#2a9d8f"
-    color: "#fff"
+    background: "#a3be8c"
+    color: "#eceff4"
 
 menu:
   main:

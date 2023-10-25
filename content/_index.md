@@ -1,6 +1,6 @@
 ---
 title: Evann DREUMONT
-description: Welcome on my portfolio
+description: Welcome on my eportfolio
 image: "home.png"
 license:
   image: 📷 by <a class="link" href="https://unsplash.com/@danesduet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Lanceplaine</a> on <a class="link" href="https://unsplash.com/s/photos/abstract?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

@@ -3,8 +3,8 @@ title: "International Mobility"
 #image: 
 slug: "mobility"
 style:
-    background: "#2a9d8f"
-    color: "#fff"
+    background: "#8fbcbb"
+    color: "#eceff4"
 
 menu:
   main:

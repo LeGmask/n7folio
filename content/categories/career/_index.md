@@ -2,9 +2,10 @@
 title: "Career Development"
 image:
 slug: "career"
+
 style:
-    background: "#2a9d8f"
-    color: "#fff"
+    background: "#5e81ac"
+    color: "#eceff4"
 
 menu:
   main:

@@ -3,7 +3,12 @@ title: "Projects"
 #image: 
 slug: "projects"
 style:
-    background: "#2a9d8f"
-    color: "#fff"
-
+    background: "#d08770"
+    color: "#eceff4"
+menu:
+  main:
+    name: Projects
+    weight: 600
+    params:
+      icon: beaker
 ---

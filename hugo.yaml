@@ -21,8 +21,6 @@ params:
     Subtitle: "Mostly computer science student at INP-ENSEEIHT (Toulouse) and sometimes developer"
     emoji: 🐧
 
-    footer:
-    since: '2023'
 
 menu:
   main: []
