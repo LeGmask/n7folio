@@ -3,7 +3,7 @@ title: Evann DREUMONT
 description: Welcome on my portfolio
 image: "home.png"
 license:
-  image: 📷 by <a href="https://unsplash.com/@danesduet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Lanceplaine</a> on <a href="https://unsplash.com/s/photos/abstract?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  image: 📷 by <a class="link" href="https://unsplash.com/@danesduet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Lanceplaine</a> on <a class="link" href="https://unsplash.com/s/photos/abstract?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 readingTime: false
 showDate : false
   
@@ -19,6 +19,7 @@ menu:
 ## Who am I ?
 
 <!-- {{< video src="video.webm" poster="./home.png" >}} -->
+<center><a class="link" href="/resume.pdf" target="_blank" rel="noopener">Get my resume</a></center>
 
 Hello there ! I'm Evann, a 20 years old IT engineer student at INP-ENSEEIHT (Toulouse).
 Passionate about computers and science in general, I first did a two-year degree in Biology, Modeling and Data Analysis ([BioMAD](https://albm.fr/)). It was these two years that made me realize my passion for computing.

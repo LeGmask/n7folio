@@ -4,9 +4,11 @@ title: 'Evann DREUMONT'
 
 theme: 'stackfolio'
 
+enableEmoji: true
+
 params:
   contentListTitle: Some of my latest projects
-  mainCategories:
+  mainSections:
     - projects
 
   favicon: /favicon.ico
@@ -21,7 +23,7 @@ params:
 
     footer:
     since: '2023'
-  
+
 menu:
   main: []
 
@@ -48,3 +50,7 @@ menu:
         icon: file-info
     
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML in md files
