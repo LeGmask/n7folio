@@ -18,7 +18,7 @@ menu:
 
 ## Who am I ?
 
-<!-- {{< video src="video.webm" poster="./home.png" >}} -->
+{{< video src="https://drive.google.com/uc?export=stream&id=1H5P91VUNh0CrED6PIuUqjYEQMbqhmhdO" >}}
 <center><a class="link" href="/resume.pdf" target="_blank" rel="noopener">Get my resume</a></center>
 
 Hello there ! I'm Evann, a 20 years old IT engineer student at INP-ENSEEIHT (Toulouse).
