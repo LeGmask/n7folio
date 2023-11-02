@@ -6,6 +6,10 @@ style:
     background: "#ebcb8b"
     color: "#eceff4"
 
+displayAsArticle: true
+readingTime: false
+showDate : false
+
 menu:
   main:
     name: Engineering courses

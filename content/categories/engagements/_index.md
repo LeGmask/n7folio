@@ -6,6 +6,10 @@ style:
     background: "#a3be8c"
     color: "#eceff4"
 
+displayAsArticle: true
+readingTime: false
+showDate : false
+
 menu:
   main:
     name: Sustainability & Civic Engagement

@@ -1,6 +1,5 @@
 ---
 title: "Sports & other activities"
-description: "This is an example category"
 slug: "activities"
 #image: "hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
 

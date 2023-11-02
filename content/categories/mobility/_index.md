@@ -6,6 +6,9 @@ style:
     background: "#8fbcbb"
     color: "#eceff4"
 
+displayAsArticle: true
+readingTime: false
+
 menu:
   main:
     name: International Mobility
